@@ -2,7 +2,7 @@
 
 
 **Nama : Ahmad Faza Alfan Fashlah
-Kelas : 2F - 03
+Kelas : 3C - 02
 NIM : 2241720186**
 
 ## TUGAS PRAKTIKUM
